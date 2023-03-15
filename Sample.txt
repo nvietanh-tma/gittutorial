@@ -1,2 +1,3 @@
 Example for git tutorial
+Master
 Emeregency
